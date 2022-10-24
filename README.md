@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<h3 align="center">:chart_with_upwards_trend: My Stats</h3>
+<p align="center">
+  <a href="#">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tommathew01"/>
+  </a>
+</p>
+
 <!--
 **tommathew01/tommathew01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
