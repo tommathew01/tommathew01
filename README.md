@@ -5,9 +5,7 @@
   <a href="#">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tommathew01"/>
   </a>
-  <a href="#">
-    <script src="https://tryhackme.com/badge/451924"></script>
-  </a>
+  <script src="https://tryhackme.com/badge/451924"></script>
 </p>
 
 <!--
